@@ -1,16 +1,16 @@
 ## Options
 
 ```
-	-1 	Combine two dictionary. Output PinYin of combined chinese words. Must set -l and -r option.
-	-2 	Convert specified Chinese dictionary to PinYin dictionary. Must set -i option.
-	-C 	Capital the first character of all words.
-	-F 	Only output the first character of all words.
-	-w 	Only Convert input Chinese text to PinYin like and then quit.
-	-l 	Set the left side dictionary
-	-r 	Set the right side dictionary
-	-i 	Set input file to convert
-	-o 	Set output file. Default is out.dict
-	--help Show this message
+-1 	Combine two dictionary. Output PinYin of combined chinese words. Must set -l and -r option.
+-2 	Convert specified Chinese dictionary to PinYin dictionary. Must set -i option.
+-C 	Capital the first character of all words.
+-F 	Only output the first character of all words.
+-w 	Only Convert input Chinese text to PinYin like and then quit.
+-l 	Set the left side dictionary
+-r 	Set the right side dictionary
+-i 	Set input file to convert
+-o 	Set output file. Default is out.dict
+--help Show this message
 ```
 
 ## Examples
